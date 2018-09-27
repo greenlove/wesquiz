@@ -1,0 +1,82 @@
+[
+  {
+    "word": "graduate",
+    "answer": "a student who has finished all the steps in a course of study",
+    "wrongs": [
+      "someone who is very slow at walking",
+      "a teacher who is just beginning to teach",
+      "when a baby cries because he's scared",
+      "someone with very bad judgement"
+    ]
+  },
+  {
+    "word": "gradually",
+    "answer": "step by step",
+    "wrongs": [
+      "in a way that's very wet",
+      "do something fast for a long time and then stop",
+      "in a way that everyone notices",
+      "in a way that someone can barely hear you"
+    ]
+  },
+  {
+    "word": "graduation",
+    "answer": "the ceremony at the completion of school",
+    "wrongs": [
+      "when it's too bright to look at directly",
+      "the middle part of a long project",
+      "when things start to smell funny",
+      "something that's very mean"
+    ]
+  },
+  {
+    "word": "sensible",
+    "answer": "wise, showing good sense",
+    "wrongs": [
+      "young and strong",
+      "step by step",
+      "extremely irritable",
+      "easily hurt"
+    ]
+  },
+  {
+    "word": "sensitive",
+    "answer": "easily hurt",
+    "wrongs": [
+      "wise, showing good sense",
+      "extremely old",
+      "foolish",
+      "step by step"
+    ]
+  },
+  {
+    "word": "sensational",
+    "answer": "exciting, outstanding",
+    "wrongs": [
+      "barely noticeable",
+      "when everyone feels the same thing exactly",
+      "when you feel something too strongly",
+      "exhausting, tiresome"
+    ]
+  },
+  {
+    "word": "sensation",
+    "answer": "a feeling, an awareness coming from the senses",
+    "wrongs": [
+      "the end of a long road",
+      "when people can't remember things exactly",
+      "doing something very slowly", 
+      "when things don't make sense"
+    ]
+  },
+  {
+    "word": "senseless",
+    "answer": "foolish, not showing good judgement",
+    "wrongs": [
+      "when people can't remember things exactly",
+      "doing something very slowly", 
+      "when things don't make sense",
+      "the end of a long road"
+    ]
+  }
+]
