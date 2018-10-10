@@ -1,0 +1,82 @@
+[
+  {
+    "word": "motel",
+    "answer": "a hotel or group of cabins by the road for motorists",
+    "wrongs": [
+      "a place for me to get their mustaches groomed",
+      "where people can talk on telephones privately",
+      "something that produces tiny black spots",
+      "the leader of a company"
+    ]
+  },
+  {
+    "word": "motionless",
+    "answer": "not moving at all, still",
+    "wrongs": [
+      "when something slows down and then speeds up",
+      "the reason or cause someone does something",
+      "a magical elixir that has great power",
+      "a large number of something"
+    ]
+  },
+  {
+    "word": "motivate",
+    "answers": ["to move a person to action", "to make a person eager to do something"], 
+    "wrongs": [
+      "to get someone to stop doing something annoying",
+      "when a judge declares that the defendant is guilty",
+      "eating too much in one sitting, especially sugary foods",
+      "flailing your arms about wildly"
+    ]
+  },
+  {
+    "word": "motive",
+    "answer": "the reason or cause someone does something",
+    "wrongs": [
+      "the weightless feeling that astronauts get when in orbit",
+      "to move a person to action",
+      "extremely irritable",
+      "something too heavy to move easily"
+    ]
+  },
+  {
+    "word": "motor",
+    "answers": ["a machine that makes something move", "a machine that uses some form of power, like electricity or gar, to make something move"],
+    "wrongs": [
+      "the act of making facial hair grow dark and thick",
+      "the reason or cause someone does something",
+      "the number that is above the line in a fraction",
+      "step by step"
+    ]
+  },
+  {
+    "word": "numerator",
+    "answers": ["the number that is above the line in a fraction", "the number that is to the left of the line in a fraction"],
+    "wrongs": [
+      "the number that is below the line in a fraction",
+      "a machine that can make something move",
+      "a person who is very angry and tired",
+      "the happy feeling a person gets when he keeps getting the answer right"
+    ]
+  },
+  {
+    "word": "numerical",
+    "answer": "related to numbers, or a series of numbers",
+    "wrongs": [
+      "the end of a long road",
+      "a person who works at a store and gets customers their prescriptions",
+      "too many to count", 
+      "when a problem is challenging for even the world's top experts"
+    ]
+  },
+  {
+    "word": "numerous",
+    "answer": "many, a large number of",
+    "wrongs": [
+      "related to numbers or a series or numbers",
+      "an unreasonable amount of work", 
+      "a deep sense of accomplishment",
+      "the end of a long road"
+    ]
+  }
+]

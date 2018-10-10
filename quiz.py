@@ -24,8 +24,14 @@ if __name__ == "__main__":
         num_asked += 1
         print ("what is the definition of the word:" + q["word"] + "?")
         
-        answer = q["answer"]
-        choices = q["wrongs"]
+        if "answers" in q:
+            answers = q["answers"]
+        else:
+            answers = [q["answer"]]
+        random.shuffle(answers)
+        answer = answers[0]
+            
+        choices = q["wrongs"][0:3]
         choices.append(answer)
         random.shuffle(choices)
         
