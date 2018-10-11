@@ -36,9 +36,9 @@ if __name__ == "__main__":
         random.shuffle(choices)
         
         for i in range(len(choices)):
-            print str(i) + ")" + choices[i]
+            print str(i+1) + ")" + choices[i]
             
-        guessnum = int(raw_input("?").strip())
+        guessnum = int(raw_input("?").strip()) - 1
         if choices[guessnum] == answer:
             num_right += 1
             print "You got it!"
