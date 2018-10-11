@@ -3,7 +3,7 @@
     "word": "motel",
     "answer": "a hotel or group of cabins by the road for motorists",
     "wrongs": [
-      "a place for me to get their mustaches groomed",
+      "a place for men to get their mustaches groomed",
       "where people can talk on telephones privately",
       "something that produces tiny black spots",
       "the leader of a company"
@@ -41,7 +41,7 @@
   },
   {
     "word": "motor",
-    "answers": ["a machine that makes something move", "a machine that uses some form of power, like electricity or gar, to make something move"],
+    "answers": ["a machine that makes something move", "a machine that uses some form of power, like electricity or gas, to make something move"],
     "wrongs": [
       "the act of making facial hair grow dark and thick",
       "the reason or cause someone does something",
