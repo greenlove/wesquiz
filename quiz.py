@@ -37,8 +37,15 @@ if __name__ == "__main__":
         
         for i in range(len(choices)):
             print str(i+1) + ")" + choices[i]
+        
+        guessnum = -1
+        while guessnum < 0 or guessnum > 3:
+            guess = raw_input("?").strip()
+            try: 
+                guessnum = int(guess) -1
+            except ValueError:
+                print "Try again"
             
-        guessnum = int(raw_input("?").strip()) - 1
         if choices[guessnum] == answer:
             num_right += 1
             print "You got it!"
