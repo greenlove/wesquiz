@@ -1,0 +1,82 @@
+[
+  {
+    "word": "delicacy",
+    "answers": ["Fineness in appearance or build", "A food that is choice or well prepared", "Concern for the feelings of others"],
+    "wrongs": [
+      "Easily torn or broken",
+      "A place that sells cooked meats and cheeses",
+      "Something very mild",
+      "A type of choice that is sometimes incorrect"
+    ]
+  },
+  {
+    "word": "delicate",
+    "answers": ["Easily torn or broken", "Mild and pleasing in smell or taste; light in color"],
+    "wrongs": [
+      "A place that sells cooked meats and cheeses",
+      "Displeasing to the taste",
+      "Too many to count",
+      "A ham sandwich that is tastes bad but can't be destroyed"
+    ]
+  },
+  {
+    "word": "delicatessen or deli",
+    "answers": ["A shop that sells prepared foods such as cooked meats and cheeses"], 
+    "wrongs": [
+      "Easily torn or broken",
+      "Pleasing to the taste",
+      "Eating too much in one sitting, especially sugary foods",
+      "Light in color"
+    ]
+  },
+  {
+    "word": "delicious",
+    "answer": "Pleasing to the taste",
+    "wrongs": [
+      "A hunt or search",
+      "Not certain, doubtful",
+      "Easily broken or torn",
+      "Pleasing to the eye"
+    ]
+  },
+  {
+    "word": "delightful",
+    "answer": "Enjoyable, very pleasant",
+    "wrongs": [
+      "Bright and certain",
+      "A hunt or search",
+      "Easily broken or torn",
+      "Showing a lot of concern for others"
+    ]
+  },
+  {
+    "word": "quest",
+    "answers": ["A hunt or search"],
+    "wrongs": [
+      "A place where motorists can stay",
+      "A type of dragon's scales",
+      "A printed list of questions for getting information",
+      "Step by step"
+    ]
+  },
+  {
+    "word": "questionable",
+    "answers": ["Not certain", "Doubtful, open to question"],
+    "wrongs": [
+      "Easily torn or broken",
+      "A hunt or search",
+      "Pleasing to the touch",
+      "A list of questions you have to answer"
+    ]
+  },
+  {
+    "word": "questionnaire",
+    "answer": "A printed list of questions for getting information",
+    "wrongs": [
+      "A hunt or search",
+      "Someone who wants to slay dragons",
+      "Too many to count", 
+      "So rich that people get real jealous"
+    ]
+  }
+]
