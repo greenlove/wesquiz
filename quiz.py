@@ -30,6 +30,10 @@ if __name__ == "__main__":
             answers = [q["answer"]]
         random.shuffle(answers)
         answer = answers[0]
+        if isinstance(answer, dict):
+            sentence = answer["sentence"]
+            print sentence
+            answer = answer["definition"]
             
         choices = q["wrongs"][0:3]
         choices.append(answer)

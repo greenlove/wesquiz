@@ -1,7 +1,20 @@
 [
   {
     "word": "delicacy",
-    "answers": ["Fineness in appearance or build", "A food that is choice or well prepared", "Concern for the feelings of others"],
+    "answers": [
+      {
+        "definition": "Fineness in appearance or build",
+        "sentence": "The image of the water lily was made with great delicacy from tiny pieces of colored glass"
+      },
+      {
+        "definition": "A food that is choice or well prepared",
+        "sentence": "That bakery has many wonderful pastries, but this cream puff is a true delicacy"
+      },
+      {
+        "definition": "Concern for the feelings of others",
+        "sentence": "Rafe chose his words carefully in order to deliver the unpleasant news with delicacy"
+      }
+    ],
     "wrongs": [
       "Easily torn or broken",
       "A place that sells cooked meats and cheeses",
@@ -11,7 +24,16 @@
   },
   {
     "word": "delicate",
-    "answers": ["Easily torn or broken", "Mild and pleasing in smell or taste; light in color"],
+    "answers": [
+      {
+        "definition": "Easily torn or broken",
+        "sentence": "Monica carefully lifted her grandmother's delicate lace shall out of the drawer"
+      },
+      {
+        "definition": "Mild and pleasing in smell or taste, light in color",
+        "sentence": "I began the painting with a delicate shade of blue for the sky and a darker blue for the water"
+      }
+    ],
     "wrongs": [
       "A place that sells cooked meats and cheeses",
       "Displeasing to the taste",
@@ -21,7 +43,9 @@
   },
   {
     "word": "delicatessen or deli",
-    "answers": ["A shop that sells prepared foods such as cooked meats and cheeses"], 
+    "answers": [
+      "A shop that sells prepared foods such as cooked meats and cheeses"
+    ],
     "wrongs": [
       "Easily torn or broken",
       "Pleasing to the taste",
@@ -51,7 +75,9 @@
   },
   {
     "word": "quest",
-    "answers": ["A hunt or search"],
+    "answers": [
+      "A hunt or search"
+    ],
     "wrongs": [
       "A place where motorists can stay",
       "A type of dragon's scales",
@@ -61,7 +87,10 @@
   },
   {
     "word": "questionable",
-    "answers": ["Not certain", "Doubtful, open to question"],
+    "answers": [
+      "Not certain",
+      "Doubtful, open to question"
+    ],
     "wrongs": [
       "Easily torn or broken",
       "A hunt or search",
@@ -75,7 +104,7 @@
     "wrongs": [
       "A hunt or search",
       "Someone who wants to slay dragons",
-      "Too many to count", 
+      "Too many to count",
       "So rich that people get real jealous"
     ]
   }
