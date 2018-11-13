@@ -1,0 +1,271 @@
+[
+  {
+    "word": "graduate",
+    "answer": "a student who has finished all the steps in a course of study",
+    "wrongs": [
+      "someone who is very slow at walking",
+      "a teacher who is just beginning to teach",
+      "when a baby cries because he's scared",
+      "someone with very bad judgement"
+    ]
+  },
+  {
+    "word": "gradually",
+    "answer": "step by step",
+    "wrongs": [
+      "in a way that's very wet",
+      "do something fast for a long time and then stop",
+      "in a way that everyone notices",
+      "in a way that someone can barely hear you"
+    ]
+  },
+  {
+    "word": "graduation",
+    "answer": "the ceremony at the completion of school",
+    "wrongs": [
+      "when it's too bright to look at directly",
+      "the middle part of a long project",
+      "when things start to smell funny",
+      "something that's very mean"
+    ]
+  },
+  {
+    "word": "sensible",
+    "answer": "wise, showing good sense",
+    "wrongs": [
+      "young and strong",
+      "step by step",
+      "extremely irritable",
+      "easily hurt"
+    ]
+  },
+  {
+    "word": "sensitive",
+    "answer": "easily hurt",
+    "wrongs": [
+      "wise, showing good sense",
+      "extremely old",
+      "foolish",
+      "step by step"
+    ]
+  },
+  {
+    "word": "sensational",
+    "answer": "exciting, outstanding",
+    "wrongs": [
+      "barely noticeable",
+      "when everyone feels the same thing exactly",
+      "when you feel something too strongly",
+      "exhausting, tiresome"
+    ]
+  },
+  {
+    "word": "sensation",
+    "answer": "a feeling, an awareness coming from the senses",
+    "wrongs": [
+      "the end of a long road",
+      "when people can't remember things exactly",
+      "doing something very slowly", 
+      "when things don't make sense"
+    ]
+  },
+  {
+    "word": "senseless",
+    "answer": "foolish, not showing good judgement",
+    "wrongs": [
+      "when people can't remember things exactly",
+      "doing something very slowly", 
+      "when things don't make sense",
+      "the end of a long road"
+    ]
+  },
+  {
+    "word": "motel",
+    "answer": "a hotel or group of cabins by the road for motorists",
+    "wrongs": [
+      "a place for men to get their mustaches groomed",
+      "where people can talk on telephones privately",
+      "something that produces tiny black spots",
+      "the leader of a company"
+    ]
+  },
+  {
+    "word": "motionless",
+    "answer": "not moving at all, still",
+    "wrongs": [
+      "when something slows down and then speeds up",
+      "the reason or cause someone does something",
+      "a magical elixir that has great power",
+      "a large number of something"
+    ]
+  },
+  {
+    "word": "motivate",
+    "answers": ["to move a person to action", "to make a person eager to do something"], 
+    "wrongs": [
+      "to get someone to stop doing something annoying",
+      "when a judge declares that the defendant is guilty",
+      "eating too much in one sitting, especially sugary foods",
+      "flailing your arms about wildly"
+    ]
+  },
+  {
+    "word": "motive",
+    "answer": "the reason or cause someone does something",
+    "wrongs": [
+      "the weightless feeling that astronauts get when in orbit",
+      "to move a person to action",
+      "extremely irritable",
+      "something too heavy to move easily"
+    ]
+  },
+  {
+    "word": "motor",
+    "answers": ["a machine that makes something move", "a machine that uses some form of power, like electricity or gas, to make something move"],
+    "wrongs": [
+      "the act of making facial hair grow dark and thick",
+      "the reason or cause someone does something",
+      "the number that is above the line in a fraction",
+      "step by step"
+    ]
+  },
+  {
+    "word": "numerator",
+    "answers": ["the number that is above the line in a fraction", "the number that is to the left of the line in a fraction"],
+    "wrongs": [
+      "the number that is below the line in a fraction",
+      "a machine that can make something move",
+      "a person who is very angry and tired",
+      "the happy feeling a person gets when he keeps getting the answer right"
+    ]
+  },
+  {
+    "word": "numerical",
+    "answer": "related to numbers, or a series of numbers",
+    "wrongs": [
+      "the end of a long road",
+      "a person who works at a store and gets customers their prescriptions",
+      "too many to count", 
+      "when a problem is challenging for even the world's top experts"
+    ]
+  },
+  {
+    "word": "numerous",
+    "answer": "many, a large number of",
+    "wrongs": [
+      "related to numbers or a series or numbers",
+      "an unreasonable amount of work", 
+      "a deep sense of accomplishment",
+      "the end of a long road"
+    ]
+  },
+  {
+    "word": "delicacy",
+    "answers": [
+      {
+        "definition": "Fineness in appearance or build",
+        "sentence": "The image of the water lily was made with great delicacy from tiny pieces of colored glass"
+      },
+      {
+        "definition": "A food that is choice or well prepared",
+        "sentence": "That bakery has many wonderful pastries, but this cream puff is a true delicacy"
+      },
+      {
+        "definition": "Concern for the feelings of others",
+        "sentence": "Rafe chose his words carefully in order to deliver the unpleasant news with delicacy"
+      }
+    ],
+    "wrongs": [
+      "Easily torn or broken",
+      "A place that sells cooked meats and cheeses",
+      "Something very old",
+      "A type of choice that is sometimes incorrect"
+    ]
+  },
+  {
+    "word": "delicate",
+    "answers": [
+      {
+        "definition": "Easily torn or broken",
+        "sentence": "Monica carefully lifted her grandmother's delicate lace shall out of the drawer"
+      },
+      {
+        "definition": "Mild and pleasing in smell or taste, light in color",
+        "sentence": "I began the painting with a delicate shade of blue for the sky and a darker blue for the water"
+      }
+    ],
+    "wrongs": [
+      "A place that sells cooked meats and cheeses",
+      "Displeasing to the taste",
+      "Too many to count",
+      "A ham sandwich that is tastes bad but can't be destroyed"
+    ]
+  },
+  {
+    "word": "delicatessen or deli",
+    "answers": [
+      "A shop that sells prepared foods such as cooked meats and cheeses"
+    ],
+    "wrongs": [
+      "Easily torn or broken",
+      "Pleasing to the taste",
+      "Eating too much in one sitting, especially sugary foods",
+      "Light in color"
+    ]
+  },
+  {
+    "word": "delicious",
+    "answer": "Pleasing to the taste",
+    "wrongs": [
+      "A hunt or search",
+      "Not certain, doubtful",
+      "Easily broken or torn",
+      "Pleasing to the eye"
+    ]
+  },
+  {
+    "word": "delightful",
+    "answer": "Enjoyable, very pleasant",
+    "wrongs": [
+      "Bright and certain",
+      "A hunt or search",
+      "Easily broken or torn",
+      "Showing a lot of concern for others"
+    ]
+  },
+  {
+    "word": "quest",
+    "answers": [
+      "A hunt or search"
+    ],
+    "wrongs": [
+      "A place where motorists can stay",
+      "A type of dragon's scales",
+      "A printed list of questions for getting information",
+      "Step by step"
+    ]
+  },
+  {
+    "word": "questionable",
+    "answers": [
+      "Not certain",
+      "Doubtful, open to question"
+    ],
+    "wrongs": [
+      "Easily torn or broken",
+      "A hunt or search",
+      "Pleasing to the touch",
+      "A list of questions you have to answer"
+    ]
+  },
+  {
+    "word": "questionnaire",
+    "answer": "A printed list of questions for getting information",
+    "wrongs": [
+      "A hunt or search",
+      "Someone who wants to slay dragons",
+      "Too many to count",
+      "So rich that people get real jealous"
+    ]
+  }
+]
