@@ -1,0 +1,134 @@
+[
+  {
+    "word": "partial",
+    "answers": [
+      {
+        "definition": "Fond of someone or something.",
+        "sentence": "Our family is partial to vacations that take us to the outdoors, like camping and hiking."
+      },
+      {
+        "definition": "In part, incomplete, not whole.",
+        "sentence": "Our vegetable garden was only a partial success this summer because deer ate some of the plants."
+      }
+    ],
+    "wrongs": [
+      "Easily torn or broken.",
+      "A place that sells cooked meats and cheeses.",
+      "Something very small.",
+      "Not at all fond of someone or something."
+    ]
+  },
+  {
+    "word": "particle",
+    "answers": [
+      {
+        "definition": "A small piece of something, a tiny bit, a speck.",
+        "sentence": "The particles of sand and soil in a dust storm can be carried thousands of miles."
+      }
+    ],
+    "wrongs": [
+      "A place that sells cooked meats and cheeses.",
+      "The whole enchilada.",
+      "Too many to count.",
+      "When something smells really bad."
+    ]
+  },
+  {
+    "word": "particular",
+    "answers": [
+      {
+        "definition" : "Special, set apart from others in a group.",
+	"sentence": "Michelle liked all the dogs, but that particular puppy was the one he wanted."
+      }
+    ],
+    "wrongs": [
+      "From another world, foreign.",
+      "Pleasing to the taste.",
+      "Eating too much in one sitting, especially sugary foods.",
+      "Light in color."
+    ]
+  },
+  {
+    "word": "partition",
+    "answers": [
+        {
+	  "definition" : "To divide into parts",
+	  "sentence" : "North American settlers partitioned the land where buffalo once grazed."
+	},
+        {
+	  "definition" : "Someting that divides one part of a room, drawer, or area from another.",
+	  "sentence" : "The tall bookcase served as a partition, separating the dining room from the living room."
+	}
+    ],
+    "wrongs": [
+      "So many books.",
+      "Not certain, doubtful.",
+      "Easily broken or torn.",
+      "Tbe newest version of something."
+    ]
+  },
+  {
+    "word": "partner",
+    "answers": [
+      {
+        "definition": "One who takes part in an activity with another person.",
+	"sentence": "When Peter plays doubles in tennis, he usually chooses Lara to be his partner."
+      }
+    ], 
+    "wrongs": [
+      "Someone who breaks things into pieces.",
+      "A hunt or search.",
+      "Someone who likes to celebrate.",
+      "Showing a lot of concern for others."
+    ]
+  },
+  {
+    "word": "studio",
+    "answers": [
+       {
+          "definition" : "A place where recordings, radio broadcases, TV programs, and movies are made.",
+	  "sentence" : " The announcer at the television studio showed replays of parts of the game."
+       },
+       {
+          "definition" : "A room where an artist, musician, dancer or photographer works or teaches.",
+	  "sentence" : "We went to the photographer's studio to get a family portrait."
+       }
+    ],
+    "wrongs": [
+      "A place where bulls wait for their food.",
+      "A tiny place to store winter clothes.",
+      "A printed list of questions for getting information.",
+      "Step by step."
+    ]
+  },
+  {
+    "word": "studiousness",
+    "answers": [ 
+      {
+        "definition" : "Attentiveness to learning, concentration on learning.",
+	"sentence" : "My older sister made good grades in every subject because of her studiousness."
+      }
+    ],
+    "wrongs": [
+      "Someone who always forgets their homework, but just understands things.",
+      "When someone wears glasses.",
+      "Pleasing to the touch.",
+      "A list of questions you have to answer."
+    ]
+  },
+  {
+    "word": "understudy",
+    "answers": [
+      {
+        "definition" : "An actor who learns the lines of another actor, especially the star, in order to be ready to substitute if needed.",
+	"sentence" : "When the leading lady in the play got sick, her understudy performed well in her place."
+      }
+    ], 
+    "wrongs": [
+      "Someone who lives under a library.",
+      "Someone who doesn't study enough.",
+      "Someone with small muscles.",
+      "A boy who's gotten really good at vocab words."
+    ]
+  }
+]
