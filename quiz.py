@@ -1,19 +1,17 @@
 import sys
 import json
 import random
-
-def usage():
-    print ("python quiz.py q1.json")
-
-
+import argparse
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("quizfile", help="quiz file to run",
+                    type=str)
+    parser.add_argument("--hard", help="no helper sentences",
+                    action="store_true")
+    args = parser.parse_args()
 
-    if len(sys.argv) != 2:
-        usage()
-        sys.exit()
-
-    f = open(sys.argv[1], "r")
+    f = open(args.quizfile, "r")
     qs = json.loads(f.read())
     f.close()
 
@@ -32,7 +30,8 @@ if __name__ == "__main__":
         answer = answers[0]
         if isinstance(answer, dict):
             sentence = answer["sentence"]
-            print sentence
+            if not args.hard:
+                print sentence
             answer = answer["definition"]
             
         choices = q["wrongs"][0:3]
