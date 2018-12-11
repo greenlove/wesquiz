@@ -1,0 +1,130 @@
+[
+  {
+    "word": "deserve",
+    "answers": [
+      {
+        "definition": "To be worthy of.",
+        "sentence": "Since Amelia had not missed a single chorus practice, she deserved an award for perfect attendance."
+      }
+    ],
+    "wrongs": [
+      "Responding to every request.",
+      "To steal.",
+      "To give something of high value.",
+      "To want."
+    ]
+  },
+  {
+    "word": "server",
+    "answers": [
+      {
+        "definition": "A restaurant worker that serves food.",
+        "sentence": "We asked our server to bring us another basket of bread as we read the menu."
+      },
+      {
+        "definition": "The player who serves the ball, as in tennis and volleyball.",
+        "sentence": "Milena is the strongest server of all the girls on the team."
+      },
+      {
+        "definition": "A computer that responds to other computer requests.",
+        "sentence": "When the server is down, neither our classroom computer not the library computer works."
+      }
+    ],
+    "wrongs": [
+      "A clean cut into two equal pieces.",
+      "Someone who cooks really tasty food.",
+      "A person who fixes broken computers.",
+      "The basketball player who brings up the ball."
+    ]
+  },
+  {
+    "word": "service",
+    "answers": [
+      {
+        "definition" : "Work done for others, helpful acts.",
+	"sentence": "The firefighters perform a valuable service for everyone in this city."
+      }
+    ],
+    "wrongs": [
+      "Resting after a long day of work.",
+      "Guarding precious goods.",
+      "Work done for yourself.",
+      "Work done by animals."
+    ]
+  },
+  {
+    "word": "serviceable",
+    "answers": [
+        {
+	  "definition" : "Useful, helpful, able to be used for a long time.",
+	  "sentence" : "Victor's hiking boots were still serviceable but too small."
+	}
+    ],
+    "wrongs": [
+      "Beautiful and stylish.",
+      "Glow in the dark.",
+      "Easily broken or torn.",
+      "Tbe newest version of something."
+    ]
+  },
+  {
+    "word": "variable",
+    "answers": [
+      {
+        "definition": "Likely to change or be different.",
+	"sentence": "The tides are variable during the year because of the position of the sun and the moon."
+      }
+    ], 
+    "wrongs": [
+      "Always the same.",
+      "Extremly slow.",
+      "Too cold to touch.",
+      "Windy and hot."
+    ]
+  },
+  {
+    "word": "variation",
+    "answers": [
+       {
+          "definition" : "The amount of change of something from the normal.",
+	  "sentence" : "Our class made a chart showing the variation in our town's population over the past twenty years."
+       }
+    ],
+    "wrongs": [
+      "The sum total.",
+      "The smallest amount.",
+      "An average amount.",
+      "An even number."
+    ]
+  },
+  {
+    "word": "variety",
+    "answers": [ 
+      {
+        "definition" : "A collection of different things, an assortment.",
+	"sentence" : "Dad and I looked at a variety of small flowering plants before selecting one for the kitchen window."
+      }
+    ],
+    "wrongs": [
+      "A collection that is carefully ordered.",
+      "When each thing is exactly the same.",
+      "Smallness.",
+      "Pleasing to the taste or smell."
+    ]
+  },
+  {
+    "word": "various",
+    "answers": [
+      {
+        "definition" : "Of several different types, not alike.",
+	"sentence" : "The dentist asked his assistant for various tools as he completed the work on my filling."
+      }
+    ], 
+    "wrongs": [
+      "Very heavy.",
+      "Computerized.",
+      "Expensive.",
+      "Terrible, horrible and smelly."
+    ]
+  }
+]
