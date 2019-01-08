@@ -1,0 +1,130 @@
+[
+  {
+    "word": "ease",
+    "answers": [
+      {
+        "definition": "Comfort, not having to try hard.",
+        "sentence": "After Brooke practiced the dance step for a week, she could do it with ease."
+      },
+      {
+        "definition": "To reduce the strain.",
+        "sentence": "When Hector eased up on the rope, he lost the tug-of-war."
+      }
+    ],
+    "wrongs": [
+      "Stressed out, panicked",
+      "To take from someone.",
+      "All by yourself.",
+      "To fall asleep."
+    ]
+  },
+  {
+    "word": "easiest",
+    "answers": [
+      {
+        "definition": "Not difficult at all, most simple.",
+        "sentence": "Because we studied so hard for the last test, it seemed like the easiest one of the year."
+      }
+    ],
+    "wrongs": [
+      "The most challenging.",
+      "The least boring.",
+      "The best one.",
+      "The one most likely to be punished."
+    ]
+  },
+  {
+    "word": "uneasy",
+    "answers": [
+      {
+        "definition" : "Uncomfortable, not relaxed, worried.",
+	"sentence": "Lucas was uneasy about giving a speech to the class because he had not practiced at home."
+      }
+    ],
+    "wrongs": [
+      "Confident.",
+      "Sweaty, not dry, moist.",
+      "Not smart, uneducated.",
+      "Extremely tired."
+    ]
+  },
+  {
+    "word": "finale",
+    "answers": [
+        {
+	  "definition" : "The last part, as of a program or a piece of music.",
+	  "sentence" : "After the band members performed several popular tunes, they played the school song as their finale."
+	}
+    ],
+    "wrongs": [
+      "The best part of the a program or a piece of music.",
+      "The oldest part of a program or a piece of music.",
+      "A loud annoying sound.",
+      "A song played when the flag is raised."
+    ]
+  },
+  {
+    "word": "finalist",
+    "answers": [
+      {
+        "definition": "A person who is in the last round of a contest.",
+	"sentence": "We all attended te state spelling bee to cheer for Megan, our school's finalist."
+      }
+    ], 
+    "wrongs": [
+      "A person who has the loudest voice.",
+      "A person who is the best at a contest.",
+      "A person who is the most tired.",
+      "A person who likes taking tests."
+    ]
+  },
+  {
+    "word": "finally",
+    "answers": [
+       {
+          "definition" : "At last, at the end.",
+	  "sentence" : "After two days of blizzard conditions, the snow finally stopped and a plow made its way down our road."
+       }
+    ],
+    "wrongs": [
+      "In a very sudden manner.",
+      "Step by step.",
+      "After an hour.",
+      "When you least expect it."
+    ]
+  },
+  {
+    "word": "finite",
+    "answers": [ 
+      {
+        "definition" : "Having an end, limited.",
+	"sentence" : "Cesar had a finite number of prizes to hand out and was afraid they wouldn't last."
+      }
+    ],
+    "wrongs": [
+      "Unlimited.",
+      "Very small.",
+      "Divisible by two.",
+      "Round and curvy."
+    ]
+  },
+  {
+    "word": "unfinished",
+    "answers": [
+      {
+        "definition" : "Incomplete, not finished",
+	"sentence" : "When the time ran out, Jeff had to turn in an unfinished test."
+      },
+      {
+        "definition" : "Not having any final coating.",
+	"sentence" : "Caroline decided to paint the unfinished wood of the picnic table."
+      }
+    ], 
+    "wrongs": [
+      "Inedible.",
+      "Very difficult.",
+      "Very light brown.",
+      "The last one."
+    ]
+  }
+]
