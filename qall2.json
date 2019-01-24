@@ -1,0 +1,390 @@
+[
+  {
+    "word": "partial",
+    "answers": [
+      {
+        "definition": "Fond of someone or something.",
+        "sentence": "Our family is partial to vacations that take us to the outdoors, like camping and hiking."
+      },
+      {
+        "definition": "In part, incomplete, not whole.",
+        "sentence": "Our vegetable garden was only a partial success this summer because deer ate some of the plants."
+      }
+    ],
+    "wrongs": [
+      "Easily torn or broken.",
+      "A place that sells cooked meats and cheeses.",
+      "Something very small.",
+      "Not at all fond of someone or something."
+    ]
+  },
+  {
+    "word": "particle",
+    "answers": [
+      {
+        "definition": "A small piece of something, a tiny bit, a speck.",
+        "sentence": "The particles of sand and soil in a dust storm can be carried thousands of miles."
+      }
+    ],
+    "wrongs": [
+      "A place that sells cooked meats and cheeses.",
+      "The whole enchilada.",
+      "Too many to count.",
+      "When something smells really bad."
+    ]
+  },
+  {
+    "word": "particular",
+    "answers": [
+      {
+        "definition" : "Special, set apart from others in a group.",
+	"sentence": "Michelle liked all the dogs, but that particular puppy was the one he wanted."
+      }
+    ],
+    "wrongs": [
+      "From another world, foreign.",
+      "Pleasing to the taste.",
+      "Eating too much in one sitting, especially sugary foods.",
+      "Light in color."
+    ]
+  },
+  {
+    "word": "partition",
+    "answers": [
+        {
+	  "definition" : "To divide into parts",
+	  "sentence" : "North American settlers partitioned the land where buffalo once grazed."
+	},
+        {
+	  "definition" : "Someting that divides one part of a room, drawer, or area from another.",
+	  "sentence" : "The tall bookcase served as a partition, separating the dining room from the living room."
+	}
+    ],
+    "wrongs": [
+      "So many books.",
+      "Not certain, doubtful.",
+      "Easily broken or torn.",
+      "Tbe newest version of something."
+    ]
+  },
+  {
+    "word": "partner",
+    "answers": [
+      {
+        "definition": "One who takes part in an activity with another person.",
+	"sentence": "When Peter plays doubles in tennis, he usually chooses Lara to be his partner."
+      }
+    ], 
+    "wrongs": [
+      "Someone who breaks things into pieces.",
+      "A hunt or search.",
+      "Someone who likes to celebrate.",
+      "Showing a lot of concern for others."
+    ]
+  },
+  {
+    "word": "studio",
+    "answers": [
+       {
+          "definition" : "A place where recordings, radio broadcases, TV programs, and movies are made.",
+	  "sentence" : " The announcer at the television studio showed replays of parts of the game."
+       },
+       {
+          "definition" : "A room where an artist, musician, dancer or photographer works or teaches.",
+	  "sentence" : "We went to the photographer's studio to get a family portrait."
+       }
+    ],
+    "wrongs": [
+      "A place where bulls wait for their food.",
+      "A tiny place to store winter clothes.",
+      "A printed list of questions for getting information.",
+      "Step by step."
+    ]
+  },
+  {
+    "word": "studiousness",
+    "answers": [ 
+      {
+        "definition" : "Attentiveness to learning, concentration on learning.",
+	"sentence" : "My older sister made good grades in every subject because of her studiousness."
+      }
+    ],
+    "wrongs": [
+      "Someone who always forgets their homework, but just understands things.",
+      "When someone wears glasses.",
+      "Pleasing to the touch.",
+      "A list of questions you have to answer."
+    ]
+  },
+  {
+    "word": "understudy",
+    "answers": [
+      {
+        "definition" : "An actor who learns the lines of another actor, especially the star, in order to be ready to substitute if needed.",
+	"sentence" : "When the leading lady in the play got sick, her understudy performed well in her place."
+      }
+    ], 
+    "wrongs": [
+      "Someone who lives under a library.",
+      "Someone who doesn't study enough.",
+      "Someone with small muscles.",
+      "A boy who's gotten really good at vocab words."
+    ]
+  },
+  {
+    "word": "deserve",
+    "answers": [
+      {
+        "definition": "To be worthy of.",
+        "sentence": "Since Amelia had not missed a single chorus practice, she deserved an award for perfect attendance."
+      }
+    ],
+    "wrongs": [
+      "Responding to every request.",
+      "To steal.",
+      "To give something of high value.",
+      "To want."
+    ]
+  },
+  {
+    "word": "server",
+    "answers": [
+      {
+        "definition": "A restaurant worker that serves food.",
+        "sentence": "We asked our server to bring us another basket of bread as we read the menu."
+      },
+      {
+        "definition": "The player who serves the ball, as in tennis and volleyball.",
+        "sentence": "Milena is the strongest server of all the girls on the team."
+      },
+      {
+        "definition": "A computer that responds to other computer requests.",
+        "sentence": "When the server is down, neither our classroom computer not the library computer works."
+      }
+    ],
+    "wrongs": [
+      "A clean cut into two equal pieces.",
+      "Someone who cooks really tasty food.",
+      "A person who fixes broken computers.",
+      "The basketball player who brings up the ball."
+    ]
+  },
+  {
+    "word": "service",
+    "answers": [
+      {
+        "definition" : "Work done for others, helpful acts.",
+	"sentence": "The firefighters perform a valuable service for everyone in this city."
+      }
+    ],
+    "wrongs": [
+      "Resting after a long day of work.",
+      "Guarding precious goods.",
+      "Work done for yourself.",
+      "Work done by animals."
+    ]
+  },
+  {
+    "word": "serviceable",
+    "answers": [
+        {
+	  "definition" : "Useful, helpful, able to be used for a long time.",
+	  "sentence" : "Victor's hiking boots were still serviceable but too small."
+	}
+    ],
+    "wrongs": [
+      "Beautiful and stylish.",
+      "Glow in the dark.",
+      "Easily broken or torn.",
+      "Tbe newest version of something."
+    ]
+  },
+  {
+    "word": "variable",
+    "answers": [
+      {
+        "definition": "Likely to change or be different.",
+	"sentence": "The tides are variable during the year because of the position of the sun and the moon."
+      }
+    ], 
+    "wrongs": [
+      "Always the same.",
+      "Extremly slow.",
+      "Too cold to touch.",
+      "Windy and hot."
+    ]
+  },
+  {
+    "word": "variation",
+    "answers": [
+       {
+          "definition" : "The amount of change of something from the normal.",
+	  "sentence" : "Our class made a chart showing the variation in our town's population over the past twenty years."
+       }
+    ],
+    "wrongs": [
+      "The sum total.",
+      "The smallest amount.",
+      "An average amount.",
+      "An even number."
+    ]
+  },
+  {
+    "word": "variety",
+    "answers": [ 
+      {
+        "definition" : "A collection of different things, an assortment.",
+	"sentence" : "Dad and I looked at a variety of small flowering plants before selecting one for the kitchen window."
+      }
+    ],
+    "wrongs": [
+      "A collection that is carefully ordered.",
+      "When each thing is exactly the same.",
+      "Smallness.",
+      "Pleasing to the taste or smell."
+    ]
+  },
+  {
+    "word": "various",
+    "answers": [
+      {
+        "definition" : "Of several different types, not alike.",
+	"sentence" : "The dentist asked his assistant for various tools as he completed the work on my filling."
+      }
+    ], 
+    "wrongs": [
+      "Very heavy.",
+      "Computerized.",
+      "Expensive.",
+      "Terrible, horrible and smelly."
+    ]
+  },
+  {
+    "word": "ease",
+    "answers": [
+      {
+        "definition": "Comfort, not having to try hard.",
+        "sentence": "After Brooke practiced the dance step for a week, she could do it with ease."
+      },
+      {
+        "definition": "To reduce the strain.",
+        "sentence": "When Hector eased up on the rope, he lost the tug-of-war."
+      }
+    ],
+    "wrongs": [
+      "Stressed out, panicked",
+      "To take from someone.",
+      "All by yourself.",
+      "To fall asleep."
+    ]
+  },
+  {
+    "word": "easiest",
+    "answers": [
+      {
+        "definition": "Not difficult at all, most simple.",
+        "sentence": "Because we studied so hard for the last test, it seemed like the easiest one of the year."
+      }
+    ],
+    "wrongs": [
+      "The most challenging.",
+      "The least boring.",
+      "The best one.",
+      "The one most likely to be punished."
+    ]
+  },
+  {
+    "word": "uneasy",
+    "answers": [
+      {
+        "definition" : "Uncomfortable, not relaxed, worried.",
+	"sentence": "Lucas was uneasy about giving a speech to the class because he had not practiced at home."
+      }
+    ],
+    "wrongs": [
+      "Confident.",
+      "Sweaty, not dry, moist.",
+      "Not smart, uneducated.",
+      "Extremely tired."
+    ]
+  },
+  {
+    "word": "finale",
+    "answers": [
+        {
+	  "definition" : "The last part, as of a program or a piece of music.",
+	  "sentence" : "After the band members performed several popular tunes, they played the school song as their finale."
+	}
+    ],
+    "wrongs": [
+      "The best part of the a program or a piece of music.",
+      "The oldest part of a program or a piece of music.",
+      "A loud annoying sound.",
+      "A song played when the flag is raised."
+    ]
+  },
+  {
+    "word": "finalist",
+    "answers": [
+      {
+        "definition": "A person who is in the last round of a contest.",
+	"sentence": "We all attended te state spelling bee to cheer for Megan, our school's finalist."
+      }
+    ], 
+    "wrongs": [
+      "A person who has the loudest voice.",
+      "A person who is the best at a contest.",
+      "A person who is the most tired.",
+      "A person who likes taking tests."
+    ]
+  },
+  {
+    "word": "finally",
+    "answers": [
+       {
+          "definition" : "At last, at the end.",
+	  "sentence" : "After two days of blizzard conditions, the snow finally stopped and a plow made its way down our road."
+       }
+    ],
+    "wrongs": [
+      "In a very sudden manner.",
+      "Step by step.",
+      "After an hour.",
+      "When you least expect it."
+    ]
+  },
+  {
+    "word": "finite",
+    "answers": [ 
+      {
+        "definition" : "Having an end, limited.",
+	"sentence" : "Cesar had a finite number of prizes to hand out and was afraid they wouldn't last."
+      }
+    ],
+    "wrongs": [
+      "Unlimited.",
+      "Very small.",
+      "Divisible by two.",
+      "Round and curvy."
+    ]
+  },
+  {
+    "word": "unfinished",
+    "answers": [
+      {
+        "definition" : "Incomplete, not finished",
+	"sentence" : "When the time ran out, Jeff had to turn in an unfinished test."
+      },
+      {
+        "definition" : "Not having any final coating.",
+	"sentence" : "Caroline decided to paint the unfinished wood of the picnic table."
+      }
+    ], 
+    "wrongs": [
+      "Inedible.",
+      "Very difficult.",
+      "Very light brown.",
+      "The last one."
+    ]
+  }
+]
