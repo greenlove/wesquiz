@@ -1,0 +1,78 @@
+[
+  {
+    "statement" : "There are hundreds of different _______ of birds in the rain forest",
+    "answer": "species",
+    "fakes": [
+       "special",
+       "specifics",
+       "genries"
+    ]
+  },
+  {
+    "statement" : "How would you familiarize yourself with a new neighborhood?",
+    "answer": "take lots of walks",
+    "fakes": [
+       "crash into a telephone pole in your car",
+       "stay inside your home",
+       "sleep there"
+    ]
+  },
+  {
+    "statement" : "Which name sounds familiar to you?",
+    "answer": "Bob",
+    "fakes": [
+       "ch44rt",
+       "linejseuns",
+       "hau sunn"
+    ]
+  },
+  {
+    "statement" : "Which person is a specialist in dog health?",
+    "answer": "veterinarian",
+    "fakes": [
+       "doctor",
+       "podiatrist",
+       "Dogman",
+       "Clay"
+    ]
+  },
+  {
+    "statement" : "Which of these is not an area of specialty for Clay?",
+    "answer": "glass blowing",
+    "fakes": [
+       "baseball",
+       "soccer",
+       "basketball",
+       "none of these"
+    ]
+  },
+  {
+    "statement" : "Which of these gives you a feeling of familiarity?",
+    "answer": "all of these",
+    "fakes": [
+       "Sunny",
+       "Buggy",
+       "mom",
+       "dad"
+    ]
+  },
+  {
+    "statement" : "Which is the most specific amount?",
+    "answer": "teaspoon",
+    "fakes": [
+       "gallons",
+       "quart",
+       "cup",
+       "Pikachu"
+    ]
+  },
+  {
+    "statement" : "Can you specify why you don't like homework?",
+    "answer": "Yes I can, and here are the details why...",
+    "fakes": [
+      "Yes I can, but I can't put it into words.",
+      "No I can't, there are a lot of reasons I can list...",
+      "You'd want some sort of helmet first."
+    ]
+  }
+]
