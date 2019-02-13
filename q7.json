@@ -1,0 +1,122 @@
+[
+  {
+    "word": "species",
+    "answers": [
+      {
+        "definition": "A group of living organisms that are similar.",
+        "sentence": "All breeds of dogs large and small are actually members of the same species."
+      }
+    ],
+    "wrongs": [
+      "A place where animals can live.",
+      "Animals",
+      "Trees and plants",
+      "Smelly gas."
+    ]
+  },
+  {
+    "word": "familiarize",
+    "answers": [
+      {
+        "definition": "To give (someone) knowledge or understanding of something.",
+        "sentence": "The teacher wanted to familiarize his class with some of the challenges that handicapped kids face."
+      }
+    ],
+    "wrongs": [
+      "To make someone part of a family.",
+      "To make someone bored with endless details.",
+      "To be mean to someone.",
+      "To challenge someone."
+    ]
+  },
+  {
+    "word": "familiar",
+    "answers": [
+      {
+        "definition" : "Well known from long or close association.",
+	"sentence": "The old house gave him a warm familiar feeling, but he would swear he'd never been there before."
+      }
+    ],
+    "wrongs": [
+      "very old, ancient",
+      "friendly and kind.",
+      "Too hot.",
+      "Exhausting."
+    ]
+  },
+  {
+    "word": "specialist",
+    "answers": [
+        {
+	  "definition" : "A person who concentrates primarily on a particular subject or activity.",
+	  "sentence" : "The other doctors, all generalists, weren't going to be able to help with this rare problem, but he could: he was a specialist."
+	}
+    ],
+    "wrongs": [
+      "Someone who is great at everything.",
+      "Someone who is over-confident.",
+      "Someone who is special.",
+      "Someone who speaks with a funny accent."
+    ]
+  },
+  {
+    "word": "speciality",
+    "answers": [
+      {
+        "definition": "An pursuit, area of study, or skill that someone is an expert in",
+	"sentence": "Amanda will coordinate with the other groups and I will solve the enormous problems -- those are my speciality."
+      }
+    ], 
+    "wrongs": [
+      "A common refrain.",
+      "A challenge that involves lots of other people.",
+      "Something you're particularly bad at.",
+      "When you know you are gonna win."
+    ]
+  },
+  {
+    "word": "familiarity",
+    "answers": [
+       {
+          "definition" : "Close knowledge of something or someone.",
+	  "sentence" : "People most enjoy listening to the music that they have a high degree of familiarity with."
+       }
+    ],
+    "wrongs": [
+      "When people or animals look like other people or animals.",
+      "The quality of finding something new.",
+      "The quality of being together in a group.",
+      "Really really old."
+    ]
+  },
+  {
+    "word": "specific",
+    "answers": [ 
+      {
+        "definition" : "Clearly defined.",
+	"sentence" : "I can't help you without specific instructions."
+      }
+    ],
+    "wrongs": [
+      "Important or highly regarded.",
+      "unspecific",
+      "repeatedly repeating repeatedly",
+      "like a dark and hard to see through cloud."
+    ]
+  },
+  {
+    "word": "specify",
+    "answers": [
+      {
+        "definition" : "To identify clearly and definitely.",
+	"sentence" : "Could you specify exactly which chicken nuggets you want?"
+      }
+    ], 
+    "wrongs": [
+      "To make something small.",
+      "To speak loudly.",
+      "To wonder aloud in a way that makes everyone tired..",
+      "To dig with a large shovel."
+    ]
+  }
+]
