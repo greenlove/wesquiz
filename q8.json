@@ -1,0 +1,138 @@
+[
+  {
+    "word": "active",
+    "answers": [
+      {
+        "definition": "Having interest in; participating in something.",
+        "sentence": "Luis dropped out of the club, but his brother is still an active member."
+      },
+      {
+        "definition": "Moving about, doing something",
+        "sentence": "A surprising number of animals are active at night, including opossums, raccoons, and porcupines"
+      }
+    ],
+    "wrongs": [
+      "Extremely lethargic; sleepy.",
+      "Ravenous, starving.",
+      "Noxious, having a terrible smell.",
+      "Deafeningly loud."
+    ]
+  },
+  {
+    "word": "activity",
+    "answers": [
+      {
+        "definition": "Something one does besides schoolwork.",
+        "sentence": "The activity that Spencer likes best is playing word games on the Internet."
+      },
+      {
+        "definition": "Motion, movement",
+        "sentence": "The food booths had a great deal of activity during last Saturday's fall festival."
+      }
+    ],
+    "wrongs": [
+      "Staying extremely still.",
+      "Boredom.",
+      "Having a lush green color.",
+      "Noise."
+    ]
+  },
+  {
+    "word": "actor",
+    "answers": [
+      {
+        "definition" : "A person who plays roles in movies, television shows and on stage; a performer.",
+	"sentence": "That actor played a pilot in one movie and a detective in another."
+      }
+    ],
+    "wrongs": [
+      "Someone who wakes people up as a profession.",
+      "A person who is extremely rich.",
+      "Someone who is always moving about frantically.",
+      "A person who likes or is drawn to mysteries."
+    ]
+  },
+  {
+    "word": "actually",
+    "answers": [
+        {
+	  "definition" : "Really, in fact.",
+	  "sentence" : "I thought I would finish the thirty-minute test in fifteen minutes, but actually I took the entire half hour."
+	}
+    ],
+    "wrongs": [
+      "How something feels, but is not really.",
+      "Done in a way that is always moving about.",
+      "Done in an entertaining manner for an audience.",
+      "In an annoying manner."
+    ]
+  },
+  {
+    "word": "enact",
+    "answers": [
+      {
+        "definition": "To make into law.",
+	"sentence": "Our congressman worked to enact a bill that would bring more money to the schools."
+      },
+      {
+        "definition": "To act out a part in a play.",
+	"sentence": "Kit will enact the role of Dorothy in The Wizard of Oz."
+      }
+    ], 
+    "wrongs": [
+      "To pretend in a way that is convincing.",
+      "To try to get something to happen for real.",
+      "To eliminate something that is burdensome.",
+      "To try and learn a challenging skill."
+    ]
+  },
+  {
+    "word": "officer",
+    "answers": [
+       {
+          "definition" : "A person with an important position in a particular group, such as a club or the armed services.",
+	  "sentence" : "The Student Council has four officers -- president, vice-president, secretary, and treasurer."
+       },
+       {
+          "definition" : "A policeman or a policewoman.",
+	  "sentence" : "At the car accident, one officer directed traffic and another talked to the two drivers."
+       }
+    ],
+    "wrongs": [
+      "A person who disables electronics from consuming electricity.",
+      "A nosy person, a busybody.",
+      "A person who does work generally seen as undesireable.",
+      "A Pokemon."
+    ]
+  },
+  {
+    "word": "official",
+    "answers": [ 
+      {
+        "definition" : "A person who holds an office or is in a position of authority such as a mayor, a referee, or a diplomat.",
+	"sentence" : "Our top city official is Mayor Ramos."
+      }
+    ],
+    "wrongs": [
+      "Someone who removes insects from humans or animals.",
+      "A person in charge of keeping food or drinks very cold.",
+      "An animal trainer.",
+      "A builder of Yo-Kai watches."
+    ]
+  },
+  {
+    "word": "officiate",
+    "answers": [
+      {
+        "definition" : "To supervise a special event or game.",
+	"sentence" : "Out English teacher, Ms. Mason, will officiate at the state spelling bee."
+      }
+    ], 
+    "wrongs": [
+      "To remove the ruts and grooves that have accumulated on a rink.",
+      "To consume food when or where it is not expected.",
+      "To get all the answers correct in a test or quiz.",
+      "To yell loudly at various people even when they aren't paying attention."
+    ]
+  }
+]
