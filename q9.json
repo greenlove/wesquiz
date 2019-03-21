@@ -1,0 +1,122 @@
+[
+  {
+    "word": "captivate",
+    "answers": [
+      {
+        "definition": "To interest greatly, to capture the attention or affection of, to charm.",
+        "sentence": "Sue was captivated by the mystery novel."
+      }
+    ],
+    "wrongs": [
+      "To exhaust completely, to tire.",
+      "To literally put someone in a cage.",
+      "When shipwrecked sailors draw lots.",
+      "To annoy someone thoroughly."
+    ]
+  },
+  {
+    "word": "captive",
+    "answers": [
+      {
+        "definition": "A person who is taken or captured; someone caught and held as prisoner.",
+        "sentence": "After the knight and his followers lost the battle, they were taken as captives to the queen."
+      }
+    ],
+    "wrongs": [
+      "A person who puts removable lids on bottles and jars.",
+      "A formal guest.",
+      "A prize of great worth.",
+      "Someone who wears faboulous hats; someone who makes them."
+    ]
+  },
+  {
+    "word": "captivity",
+    "answers": [
+      {
+        "definition" : "The condition of being a captive, of not being free.",
+	"sentence": "The tiger that we saw at the zoo is the largest one in captivity."
+      }
+    ],
+    "wrongs": [
+      "The condition of being dehydrated from heat.",
+      "A restaurant that specializes in hot drinks.",
+      "The condition of being extremy angry.",
+      "The quality of being extremely interesting to a lot of people."
+    ]
+  },
+  {
+    "word": "recapture",
+    "answers": [
+        {
+	  "definition" : "To take or capture again, to bring back.",
+	  "sentence" : "On Bonnie's second trip to camp, she could not recapture the thrill she had felt on her last trip."
+	}
+    ],
+    "wrongs": [
+      "A small opening in a wall that emits terrible smells.",
+      "When something feels truly extraordinary.",
+      "To describe something very clearly.",
+      "To find something hidden."
+    ]
+  },
+  {
+    "word": "statement",
+    "answers": [
+      {
+        "definition": "Spoken or written words, expressing an idea.",
+	"sentence": "The students worked to make the statement of the purpose of their project very clear."
+      }
+    ], 
+    "wrongs": [
+      "The subterranean floor of a local government building.",
+      "When your mouth feels all tingly after too much strongly flavored gum.",
+      "When a group of people scream loudly so as to distract others.",
+      "A covering for a book or painting that protects what's inside."
+    ]
+  },
+  {
+    "word": "stationary",
+    "answers": [
+       {
+          "definition" : "Not moving, motionless, fixed in place.",
+	  "sentence" : "The train remained stationary while the passengers boarded."
+       }
+    ],
+    "wrongs": [
+      "Of or pertaining to a set of related tv shows or movies.",
+      "Moving too fast to be considered safe.",
+      "Sticking to a strict or rigorous schedule; on time.",
+      "Cold and quiet."
+    ]
+  },
+  {
+    "word": "statue",
+    "answers": [ 
+      {
+        "definition" : "An image carved, cast or molded in various materials such as stone wood, or metal.",
+	"sentence" : "The statue of George Washington stood at the entrance to the park."
+      }
+    ],
+    "wrongs": [
+      "A written dedication to someone great.",
+      "A beautiful painting, made from a set of bright colors.",
+      "A child, grandchild or descendant.",
+      "A carefully crafted gate with a person's initials engraved on it."
+    ]
+  },
+  {
+    "word": "understate",
+    "answers": [
+      {
+        "definition" : "To present as less important than it really is, to make little of to deny the seriousness of.",
+	"sentence" : "Bella was so brave that she understated the amount of pain she felt from her broken arm."
+      }
+    ], 
+    "wrongs": [
+      "To say something very quietly so that few people can hear.",
+      "To oppose; to resist.",
+      "The bottom-part of a carved piece of art.",
+      "A place where people who wear glasses can clean each other's lenses without fear."
+    ]
+  }
+]
