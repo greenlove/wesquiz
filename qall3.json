@@ -1,0 +1,378 @@
+[
+  {
+    "word": "species",
+    "answers": [
+      {
+        "definition": "A group of living organisms that are similar.",
+        "sentence": "All breeds of dogs large and small are actually members of the same species."
+      }
+    ],
+    "wrongs": [
+      "A place where animals can live.",
+      "Animals",
+      "Trees and plants",
+      "Smelly gas."
+    ]
+  },
+  {
+    "word": "familiarize",
+    "answers": [
+      {
+        "definition": "To give (someone) knowledge or understanding of something.",
+        "sentence": "The teacher wanted to familiarize his class with some of the challenges that handicapped kids face."
+      }
+    ],
+    "wrongs": [
+      "To make someone part of a family.",
+      "To make someone bored with endless details.",
+      "To be mean to someone.",
+      "To challenge someone."
+    ]
+  },
+  {
+    "word": "familiar",
+    "answers": [
+      {
+        "definition" : "Well known from long or close association.",
+	"sentence": "The old house gave him a warm familiar feeling, but he would swear he'd never been there before."
+      }
+    ],
+    "wrongs": [
+      "very old, ancient",
+      "friendly and kind.",
+      "Too hot.",
+      "Exhausting."
+    ]
+  },
+  {
+    "word": "specialist",
+    "answers": [
+        {
+	  "definition" : "A person who concentrates primarily on a particular subject or activity.",
+	  "sentence" : "The other doctors, all generalists, weren't going to be able to help with this rare problem, but he could: he was a specialist."
+	}
+    ],
+    "wrongs": [
+      "Someone who is great at everything.",
+      "Someone who is over-confident.",
+      "Someone who is special.",
+      "Someone who speaks with a funny accent."
+    ]
+  },
+  {
+    "word": "speciality",
+    "answers": [
+      {
+        "definition": "An pursuit, area of study, or skill that someone is an expert in",
+	"sentence": "Amanda will coordinate with the other groups and I will solve the enormous problems -- those are my speciality."
+      }
+    ], 
+    "wrongs": [
+      "A common refrain.",
+      "A challenge that involves lots of other people.",
+      "Something you're particularly bad at.",
+      "When you know you are gonna win."
+    ]
+  },
+  {
+    "word": "familiarity",
+    "answers": [
+       {
+          "definition" : "Close knowledge of something or someone.",
+	  "sentence" : "People most enjoy listening to the music that they have a high degree of familiarity with."
+       }
+    ],
+    "wrongs": [
+      "When people or animals look like other people or animals.",
+      "The quality of finding something new.",
+      "The quality of being together in a group.",
+      "Really really old."
+    ]
+  },
+  {
+    "word": "specific",
+    "answers": [ 
+      {
+        "definition" : "Clearly defined.",
+	"sentence" : "I can't help you without specific instructions."
+      }
+    ],
+    "wrongs": [
+      "Important or highly regarded.",
+      "unspecific",
+      "repeatedly repeating repeatedly",
+      "like a dark and hard to see through cloud."
+    ]
+  },
+  {
+    "word": "specify",
+    "answers": [
+      {
+        "definition" : "To identify clearly and definitely.",
+	"sentence" : "Could you specify exactly which chicken nuggets you want?"
+      }
+    ], 
+    "wrongs": [
+      "To make something small.",
+      "To speak loudly.",
+      "To wonder aloud in a way that makes everyone tired..",
+      "To dig with a large shovel."
+    ]
+  },
+  {
+    "word": "active",
+    "answers": [
+      {
+        "definition": "Having interest in; participating in something.",
+        "sentence": "Luis dropped out of the club, but his brother is still an active member."
+      },
+      {
+        "definition": "Moving about, doing something",
+        "sentence": "A surprising number of animals are active at night, including opossums, raccoons, and porcupines"
+      }
+    ],
+    "wrongs": [
+      "Extremely lethargic; sleepy.",
+      "Ravenous, starving.",
+      "Noxious, having a terrible smell.",
+      "Deafeningly loud."
+    ]
+  },
+  {
+    "word": "activity",
+    "answers": [
+      {
+        "definition": "Something one does besides schoolwork.",
+        "sentence": "The activity that Spencer likes best is playing word games on the Internet."
+      },
+      {
+        "definition": "Motion, movement",
+        "sentence": "The food booths had a great deal of activity during last Saturday's fall festival."
+      }
+    ],
+    "wrongs": [
+      "Staying extremely still.",
+      "Boredom.",
+      "Having a lush green color.",
+      "Noise."
+    ]
+  },
+  {
+    "word": "actor",
+    "answers": [
+      {
+        "definition" : "A person who plays roles in movies, television shows and on stage; a performer.",
+	"sentence": "That actor played a pilot in one movie and a detective in another."
+      }
+    ],
+    "wrongs": [
+      "Someone who wakes people up as a profession.",
+      "A person who is extremely rich.",
+      "Someone who is always moving about frantically.",
+      "A person who likes or is drawn to mysteries."
+    ]
+  },
+  {
+    "word": "actually",
+    "answers": [
+        {
+	  "definition" : "Really, in fact.",
+	  "sentence" : "I thought I would finish the thirty-minute test in fifteen minutes, but actually I took the entire half hour."
+	}
+    ],
+    "wrongs": [
+      "How something feels, but is not really.",
+      "Done in a way that is always moving about.",
+      "Done in an entertaining manner for an audience.",
+      "In an annoying manner."
+    ]
+  },
+  {
+    "word": "enact",
+    "answers": [
+      {
+        "definition": "To make into law.",
+	"sentence": "Our congressman worked to enact a bill that would bring more money to the schools."
+      },
+      {
+        "definition": "To act out a part in a play.",
+	"sentence": "Kit will enact the role of Dorothy in The Wizard of Oz."
+      }
+    ], 
+    "wrongs": [
+      "To pretend in a way that is convincing.",
+      "To try to get something to happen for real.",
+      "To eliminate something that is burdensome.",
+      "To try and learn a challenging skill."
+    ]
+  },
+  {
+    "word": "officer",
+    "answers": [
+       {
+          "definition" : "A person with an important position in a particular group, such as a club or the armed services.",
+	  "sentence" : "The Student Council has four officers -- president, vice-president, secretary, and treasurer."
+       },
+       {
+          "definition" : "A policeman or a policewoman.",
+	  "sentence" : "At the car accident, one officer directed traffic and another talked to the two drivers."
+       }
+    ],
+    "wrongs": [
+      "A person who disables electronics from consuming electricity.",
+      "A nosy person, a busybody.",
+      "A person who does work generally seen as undesireable.",
+      "A Pokemon."
+    ]
+  },
+  {
+    "word": "official",
+    "answers": [ 
+      {
+        "definition" : "A person who holds an office or is in a position of authority such as a mayor, a referee, or a diplomat.",
+	"sentence" : "Our top city official is Mayor Ramos."
+      }
+    ],
+    "wrongs": [
+      "Someone who removes insects from humans or animals.",
+      "A person in charge of keeping food or drinks very cold.",
+      "An animal trainer.",
+      "A builder of Yo-Kai watches."
+    ]
+  },
+  {
+    "word": "officiate",
+    "answers": [
+      {
+        "definition" : "To supervise a special event or game.",
+	"sentence" : "Out English teacher, Ms. Mason, will officiate at the state spelling bee."
+      }
+    ], 
+    "wrongs": [
+      "To remove the ruts and grooves that have accumulated on a rink.",
+      "To consume food when or where it is not expected.",
+      "To get all the answers correct in a test or quiz.",
+      "To yell loudly at various people even when they aren't paying attention."
+    ]
+  },
+  {
+    "word": "captivate",
+    "answers": [
+      {
+        "definition": "To interest greatly, to capture the attention or affection of, to charm.",
+        "sentence": "Sue was captivated by the mystery novel."
+      }
+    ],
+    "wrongs": [
+      "To exhaust completely, to tire.",
+      "To literally put someone in a cage.",
+      "When shipwrecked sailors draw lots.",
+      "To annoy someone thoroughly."
+    ]
+  },
+  {
+    "word": "captive",
+    "answers": [
+      {
+        "definition": "A person who is taken or captured; someone caught and held as prisoner.",
+        "sentence": "After the knight and his followers lost the battle, they were taken as captives to the queen."
+      }
+    ],
+    "wrongs": [
+      "A person who puts removable lids on bottles and jars.",
+      "A formal guest.",
+      "A prize of great worth.",
+      "Someone who wears faboulous hats; someone who makes them."
+    ]
+  },
+  {
+    "word": "captivity",
+    "answers": [
+      {
+        "definition" : "The condition of being a captive, of not being free.",
+	"sentence": "The tiger that we saw at the zoo is the largest one in captivity."
+      }
+    ],
+    "wrongs": [
+      "The condition of being dehydrated from heat.",
+      "A restaurant that specializes in hot drinks.",
+      "The condition of being extremy angry.",
+      "The quality of being extremely interesting to a lot of people."
+    ]
+  },
+  {
+    "word": "recapture",
+    "answers": [
+        {
+	  "definition" : "To take or capture again, to bring back.",
+	  "sentence" : "On Bonnie's second trip to camp, she could not recapture the thrill she had felt on her last trip."
+	}
+    ],
+    "wrongs": [
+      "A small opening in a wall that emits terrible smells.",
+      "When something feels truly extraordinary.",
+      "To describe something very clearly.",
+      "To find something hidden."
+    ]
+  },
+  {
+    "word": "statement",
+    "answers": [
+      {
+        "definition": "Spoken or written words, expressing an idea.",
+	"sentence": "The students worked to make the statement of the purpose of their project very clear."
+      }
+    ], 
+    "wrongs": [
+      "The subterranean floor of a local government building.",
+      "When your mouth feels all tingly after too much strongly flavored gum.",
+      "When a group of people scream loudly so as to distract others.",
+      "A covering for a book or painting that protects what's inside."
+    ]
+  },
+  {
+    "word": "stationary",
+    "answers": [
+       {
+          "definition" : "Not moving, motionless, fixed in place.",
+	  "sentence" : "The train remained stationary while the passengers boarded."
+       }
+    ],
+    "wrongs": [
+      "Of or pertaining to a set of related tv shows or movies.",
+      "Moving too fast to be considered safe.",
+      "Sticking to a strict or rigorous schedule; on time.",
+      "Cold and quiet."
+    ]
+  },
+  {
+    "word": "statue",
+    "answers": [ 
+      {
+        "definition" : "An image carved, cast or molded in various materials such as stone wood, or metal.",
+	"sentence" : "The statue of George Washington stood at the entrance to the park."
+      }
+    ],
+    "wrongs": [
+      "A written dedication to someone great.",
+      "A beautiful painting, made from a set of bright colors.",
+      "A child, grandchild or descendant.",
+      "A carefully crafted gate with a person's initials engraved on it."
+    ]
+  },
+  {
+    "word": "understate",
+    "answers": [
+      {
+        "definition" : "To present as less important than it really is, to make little of to deny the seriousness of.",
+	"sentence" : "Bella was so brave that she understated the amount of pain she felt from her broken arm."
+      }
+    ], 
+    "wrongs": [
+      "To say something very quietly so that few people can hear.",
+      "To oppose; to resist.",
+      "The bottom-part of a carved piece of art.",
+      "A place where people who wear glasses can clean each other's lenses without fear."
+    ]
+  }
+]
